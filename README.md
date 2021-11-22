@@ -15,9 +15,7 @@
   <img align = "center" alt = "Cleyber-Csharp" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg>
   <img align = "center" alt = "Cleyber-.NET" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dot-net/dot-net-plain-wordmark.svg>
   <img align = "center" alt = "Cleyber-Bootstrap" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg>
-  <img align = "right" alt = "Cleyber-pic" height = "150" style = "border-radius: 50px;" src = "https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-  
+  </div>  
   ##
  
 <div>    
