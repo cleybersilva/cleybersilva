@@ -1,5 +1,5 @@
 ##  Oiii eu sou Cleyber Silva!
-##  Desenvolvedor Front-end e Back-end em diversas tecnologias.
+##  Desenvolvedor Front-End/Back-End e apaixonado por Tecnologia.
 <div align = "center">
   <a href="https://github.com/cleybersilva">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=cleybersilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
