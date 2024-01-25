@@ -1,10 +1,10 @@
 ##  Olá!👋
 
-Meu nome é Cleyber Silva sou Engenheiro DevSecOps/Arquiteto Cloud e Edge Computing focado em ferramentas DevOps, tenho as certificações Scrum Foundation Professional Certificate - SFPC™, DevOps Essentials Professional Certificate - DEPC®, EXIN DevOps Professional, AWS Practitioner, AZ-900 da Microsoft e NSE 1, 2 e 3 Network Security Associate,  focado em ser referência em inovação para o terceiro setor, criando soluções totalmente filantrópicas, para conectar pessoas em um futuro movido por tecnologia para todos.
+Meu nome é Cleyber Silva sou Engenheiro SRE e Arquiteto Cloud & Edge Computing focado em ferramentas DevSecOps, tenho as certificações Scrum Foundation Professional Certificate - SFPC™, DevOps Essentials Professional Certificate - DEPC®, EXIN DevOps Professional, AWS Practitioner, AZ-900 da Microsoft e NSE 1, 2 e 3 Network Security Associate,  focado em ser referência em inovação para o terceiro setor, criando soluções totalmente filantrópicas, para conectar pessoas em um futuro movido por tecnologia para todos.
 
-Sou do Brasil e Estou trabalhando principalmente com DevSecOps e Cloud Computing (Azure | AWS | GCP), Infrastructure as Code (IaC), CI/CD, Microsoft Windows Services e virtualização.
+Sou Brasileiro, atuo principalmente com Engenharia SRE e Cloud Computing (Azure | AWS | GCP), Infrastructure as Code (IaC), CI/CD, Microsoft Windows Services e virtualização.
 
-Sou profissional de tecnologia da informação desde o ano 2007! Eu amo aprender, compartilhar e ensinar pessoas!
+Sou profissional de tecnologia da informação desde o ano 2013! Eu amo aprender, compartilhar e ajudo pessoas a se desenvolverem na área de TI em todo Brasil!
 
 📫 Como me encontrar
 
