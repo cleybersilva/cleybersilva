@@ -16,9 +16,9 @@ Adoro falar com as pessoas e discutir tecnologia!.
 </div>
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Cleyber-Linux" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg>
-  <img align = "center" alt = "Cleyber-Js" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg>
   <img align = "center" alt = "Cleyber-HTML" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg>
   <img align = "center" alt = "Cleyber-CSS" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg>
+  <img align = "center" alt = "Cleyber-Js" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg>
   <img align = "center" alt = "Cleyber-Python" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg>
   <img align = "center" alt = "Cleyber-Csharp" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg>
   <img align = "center" alt = "Cleyber-.NET" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dot-net/dot-net-plain-wordmark.svg>
