@@ -17,6 +17,7 @@ Adoro falar com as pessoas e discutir tecnologia!.
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Cleyber-Linux" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg>
   <img align = "center" alt = "Cleyber-Terraform" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg>
+  <img align = "center" alt = "Cleyber-Jenkins" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg>
   <img align = "center" alt = "Cleyber-Azure" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg>
   <img align = "center" alt = "Cleyber-AWS" height = "40" width = "50" src = https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg>
   <img align = "center" alt = "Cleyber-Jira" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg>
