@@ -20,6 +20,7 @@ Adoro falar com as pessoas e discutir tecnologia!.
    <img align = "center" alt = "Cleyber-Azure" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg>
   <img align = "center" alt = "Cleyber-AWS" height = "40" width = "50" src = https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg>
   <img align = "center" alt = "Cleyber-BitBucket" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg>
+  <img align = "center" alt = "Cleyber-Confluence" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg>
    <img align = "center" alt = "Cleyber-Bamboo" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg>
   <img align = "center" alt = "Cleyber-HTML" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg>
   <img align = "center" alt = "Cleyber-CSS" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg>
