@@ -15,7 +15,7 @@ Adoro falar com as pessoas e discutir tecnologia!.
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleybersilva&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style = "display: inline_block"> <br>
-  <img align = "center" alt = "Cleyber-Linux" height = "30" width = "50" src = https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg>
+  <img align = "center" alt = "Cleyber-Linux" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg>
   <img align = "center" alt = "Cleyber-Docker" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg>
   <img align = "center" alt = "Cleyber-Terraform" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg>
   <img align = "center" alt = "Cleyber-Kubernetes" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg>
