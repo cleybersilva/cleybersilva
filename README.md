@@ -17,6 +17,7 @@ Adoro falar com as pessoas e discutir tecnologia!.
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Cleyber-Argocid" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg>
   <img align = "center" alt = "Cleyber-AzureDevOps" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg>
+  <img align = "center" alt = "Cleyber-GitLab" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg>
   <img align = "center" alt = "Cleyber-Helm" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg>
   <img align = "center" alt = "Cleyber-Linux" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg>
   <img align = "center" alt = "Cleyber-Git" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg>
