@@ -50,6 +50,7 @@ Adoro falar com as pessoas e discutir tecnologia!.
   <img align = "center" alt = "Cleyber-NGINX" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg>
   <img align = "center" alt = "Cleyber-PostgreSQL" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg>
   <img align = "center" alt = "Cleyber-Swagger" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg>
+  <img align = "center" alt = "Cleyber-Redis" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg>
   
   </div> 
   
