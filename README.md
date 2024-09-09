@@ -52,6 +52,7 @@ Adoro falar com as pessoas e discutir tecnologia!.
   <img align = "center" alt = "Cleyber-Swagger" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg>
   <img align = "center" alt = "Cleyber-Redis" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg>
   <img align = "center" alt = "Cleyber-Rabbitmq" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg>
+  <img align = "center" alt = "Cleyber-Elasticsearch" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg>
   
   </div> 
   
