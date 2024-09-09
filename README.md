@@ -43,6 +43,7 @@ Adoro falar com as pessoas e discutir tecnologia!.
   <img align = "center" alt = "Cleyber-Csharp" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg>
   <img align = "center" alt = "Cleyber-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
   <img align = "center" alt = "Cleyber-Visual Studio" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg>
+  <img align = "center" alt = "Cleyber-.NET_Core" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg>
   <img align = "center" alt = "Cleyber-MongoDB" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg>
   <img align = "center" alt = "Cleyber-MySQL" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg>
   <img align = "center" alt = "Cleyber-NGINX" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg>
