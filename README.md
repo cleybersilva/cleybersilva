@@ -9,30 +9,21 @@ Com mais de uma década de estrada na TI, domino tecnologias como Kubernetes, Do
 📚 Formação Acadêmica:
 
 Doutorando e Mestre em Ciências da Educação (Veni Creator Christian University)
-
 MBA em IA & Big Data (USP – ICMC)
-
 Pós-graduações em DevOps, SRE, Cloud Architecting, .NET e Edge Computing
 
 📜 Certificações em destaque:
-
 SFPC™, DEPC®, EXIN DevOps Professional
-
 AWS Cloud Practitioner, Microsoft AZ-900
-
 Fortinet NSE 1, 2, 3
-
 Certificações em Cibersegurança e DevOps pela 4Linux, IBSEC, CertiProf
 
 💡 Missão pessoal: Inspirar e apoiar profissionais de TI pelo Brasil, com conteúdo, mentoria e soluções práticas — porque tecnologia só faz sentido quando é compartilhada.
 
 📫 Onde me encontrar:
 GitHub: @cleybersilva
-
 LinkedIn: cleybersilva
-
 Lattes: Currículo Lattes
-
 WhatsApp: Fale comigo
 
 Adoro falar com as pessoas e discutir tecnologia!.
