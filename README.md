@@ -1,12 +1,39 @@
-##  Olá!👋
+##  👨‍💻 Sobre mim
 
-Meu nome é Cleyber Silva sou Engenheiro SRE e Arquiteto Cloud & Edge Computing focado em ferramentas DevSecOps, tenho as certificações Scrum Foundation Professional Certificate - SFPC™, DevOps Essentials Professional Certificate - DEPC®, EXIN DevOps Professional, AWS Practitioner, AZ-900 da Microsoft e NSE 1, 2 e 3 Network Security Associate,  focado em ser referência em inovação para o terceiro setor, criando soluções totalmente filantrópicas, para conectar pessoas em um futuro movido por tecnologia para todos.
+Olá! Me chamo Cleyber Silva — Engenheiro SRE, Arquiteto em Cloud & Edge Computing, e eterno aprendiz apaixonado por tecnologia, inovação e impacto social. Atuo com foco em automação de infraestrutura, observabilidade de sistemas distribuídos, práticas DevSecOps e arquitetura multicloud (AWS | Azure | GCP). Meu propósito vai além do código: busco usar a tecnologia como ferramenta de transformação, especialmente no terceiro setor, desenvolvendo soluções filantrópicas que conectam pessoas e criam pontes para um futuro mais acessível e digital para todos.
 
-Sou Brasileiro, atuo principalmente com Engenharia SRE e Cloud Computing (Azure | AWS | GCP), Infrastructure as Code (IaC), CI/CD, Microsoft Windows Services e virtualização.
+Atualmente sou SRE Engineer Sênior na Tata Consultancy Services (TCS), alocado no Banco Itaú, onde lidero iniciativas em infraestrutura como código (IaC), escalabilidade em ambientes distribuídos e observabilidade com ferramentas como Datadog, AppDynamics, Prometheus, Grafana e Dynatrace.
 
-Sou profissional de tecnologia da informação desde o ano 2013! Eu amo aprender, compartilhar e ajudo pessoas a se desenvolverem na área de TI em todo Brasil!
+Com mais de uma década de estrada na TI, domino tecnologias como Kubernetes, Docker, Terraform, Ansible, GitHub Actions, Azure DevOps, e diversas stacks modernas para backend e frontend (Node.js, .NET, Python, React, Angular).
 
-📫 Como me encontrar
+📚 Formação Acadêmica:
+
+Doutorando e Mestre em Ciências da Educação (Veni Creator Christian University)
+
+MBA em IA & Big Data (USP – ICMC)
+
+Pós-graduações em DevOps, SRE, Cloud Architecting, .NET e Edge Computing
+
+📜 Certificações em destaque:
+
+SFPC™, DEPC®, EXIN DevOps Professional
+
+AWS Cloud Practitioner, Microsoft AZ-900
+
+Fortinet NSE 1, 2, 3
+
+Certificações em Cibersegurança e DevOps pela 4Linux, IBSEC, CertiProf
+
+💡 Missão pessoal: Inspirar e apoiar profissionais de TI pelo Brasil, com conteúdo, mentoria e soluções práticas — porque tecnologia só faz sentido quando é compartilhada.
+
+📫 Onde me encontrar:
+GitHub: @cleybersilva
+
+LinkedIn: cleybersilva
+
+Lattes: Currículo Lattes
+
+WhatsApp: Fale comigo
 
 Adoro falar com as pessoas e discutir tecnologia!.
 <div align = "center">
