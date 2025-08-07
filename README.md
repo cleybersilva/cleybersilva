@@ -21,10 +21,10 @@ Certificações em Cibersegurança e DevOps pela 4Linux, IBSEC, CertiProf
 💡 Missão pessoal: Inspirar e apoiar profissionais de TI pelo Brasil, com conteúdo, mentoria e soluções práticas — porque tecnologia só faz sentido quando é compartilhada.
 
 📫 Onde me encontrar:
-GitHub: @cleybersilva
-LinkedIn: cleybersilva
-Lattes: Currículo Lattes
-WhatsApp: Fale comigo
+GitHub: [@cleybersilva](https://github.com/cleybersilva/cleybersilva/)<br>
+LinkedIn: [cleybersilva](https://www.linkedin.com/in/cleybersilva/)<br>
+Lattes: [Currículo Lattes](http://lattes.cnpq.br/5666713747674179)<br>
+WhatsApp: [Fale comigo](https://api.whatsapp.com/send/?phone=5583988329018&text=Ol%C3%A1%2C+Cleyber%21+Entrei+em+contato+pelo+seu+curr%C3%ADculo.+Gostaria+de+conversar+sobre+uma+poss%C3%ADvel+parceria+profissional.+Podemos+agendar+um+hor%C3%A1rio%3F&type=phone_number&app_absent=0)
 
 Adoro falar com as pessoas e discutir tecnologia!.
 <div align = "center">
